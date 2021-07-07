@@ -1,0 +1,6 @@
+name: ChestShop_CoreProtect_Addon
+version: 1.0.0
+main: com.github.shin19.ChestShop_CoreProtect_Addon
+author: shin19
+description: ChestShop Record CoreProtect Addon
+softdepend: [ChestShop, CoreProtect]
